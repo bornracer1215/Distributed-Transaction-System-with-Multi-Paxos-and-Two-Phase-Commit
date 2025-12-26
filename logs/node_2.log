@@ -1,0 +1,27 @@
+2025-12-12 10:47:41,753 - Node2 - INFO - Node 2 initialized (Cluster 1)
+2025-12-12 10:47:43,734 - Node2 - INFO - Server started on localhost:5002
+2025-12-12 10:47:43,734 - Node2 - INFO - Serving on ('127.0.0.1', 5002)
+2025-12-12 10:48:06,387 - Node2 - INFO - *** NODE RECOVERED ***
+2025-12-12 10:48:48,220 - Node2 - INFO - *** NODE RECOVERED ***
+2025-12-12 10:49:24,626 - Node2 - WARNING - *** NODE FAILED ***
+2025-12-12 10:50:26,231 - Node2 - INFO - *** NODE RECOVERED ***
+2025-12-12 10:50:34,309 - Node2 - WARNING - *** NODE FAILED ***
+2025-12-12 10:50:35,996 - Node2 - INFO - *** NODE RECOVERED ***
+2025-12-12 10:51:03,790 - Node2 - INFO - *** NODE RECOVERED ***
+2025-12-12 10:55:21,255 - Node2 - ERROR - Connection error from ('::1', 56910, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-12 11:07:27,322 - Node2 - INFO - Node 2 initialized (Cluster 1)
+2025-12-12 11:07:27,822 - Node2 - INFO - Server started on localhost:5002
+2025-12-12 11:07:27,822 - Node2 - INFO - Serving on ('::1', 5002, 0, 0)
+2025-12-12 11:11:52,354 - Node2 - INFO - Node 2 initialized (Cluster 1)
+2025-12-12 11:11:52,416 - Node2 - INFO - Server started on localhost:5002
+2025-12-12 11:11:52,416 - Node2 - INFO - Serving on ('127.0.0.1', 5002)
+2025-12-12 11:12:06,790 - Node2 - ERROR - Connection error from ('::1', 56670, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-12 11:12:27,336 - Node2 - INFO - Node 2 initialized (Cluster 1)
+2025-12-12 11:12:27,617 - Node2 - INFO - Server started on localhost:5002
+2025-12-12 11:12:27,617 - Node2 - INFO - Serving on ('127.0.0.1', 5002)
+2025-12-12 11:18:54,370 - Node2 - INFO - Node 2 initialized (Cluster 1)
+2025-12-12 11:18:54,432 - Node2 - INFO - Server started on localhost:5002
+2025-12-12 11:18:54,432 - Node2 - INFO - Serving on ('::1', 5002, 0, 0)
+2025-12-13 23:33:32,586 - Node2 - INFO - Node 2 initialized (Cluster 1)
+2025-12-13 23:33:32,976 - Node2 - INFO - Server started on localhost:5002
+2025-12-13 23:33:32,976 - Node2 - INFO - Serving on ('::1', 5002, 0, 0)

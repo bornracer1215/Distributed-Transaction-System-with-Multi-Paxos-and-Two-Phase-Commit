@@ -1,0 +1,31 @@
+{
+  "config": {
+    "read_write_ratio": 0.5,
+    "cross_shard_ratio": 0.3,
+    "skew": 0.0,
+    "duration": 60,
+    "target_tps": 1000,
+    "num_clients": 20
+  },
+  "stats": {
+    "duration": 59.99365973472595,
+    "total_transactions": 3100,
+    "successful_transactions": 2929,
+    "failed_transactions": 171,
+    "read_transactions": 1525,
+    "write_transactions": 1575,
+    "intra_shard_transactions": 2637,
+    "cross_shard_transactions": 463,
+    "avg_tps": 48.82182572210402,
+    "latency_percentiles": {
+      "p50": 0.031246185302734375,
+      "p90": 1.6248320102691651,
+      "p95": 2.2029066562652586,
+      "p99": 3.5308766388893127
+    },
+    "errors": {
+      "All nodes in cluster 3 failed after 4 retries": 1
+    }
+  },
+  "timestamp": "2025-12-12T11:21:09.652241"
+}

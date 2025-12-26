@@ -1,0 +1,27 @@
+2025-12-12 10:47:45,463 - Node6 - INFO - Node 6 initialized (Cluster 2)
+2025-12-12 10:47:46,812 - Node6 - INFO - Server started on localhost:5006
+2025-12-12 10:47:46,812 - Node6 - INFO - Serving on ('::1', 5006, 0, 0)
+2025-12-12 10:48:06,825 - Node6 - INFO - *** NODE RECOVERED ***
+2025-12-12 10:48:09,386 - Node6 - WARNING - *** NODE FAILED ***
+2025-12-12 10:48:48,661 - Node6 - INFO - *** NODE RECOVERED ***
+2025-12-12 10:49:33,953 - Node6 - ERROR - Error sending message: Connection lost
+2025-12-12 10:49:40,530 - Node6 - ERROR - Error sending message: Connection lost
+2025-12-12 10:49:47,547 - Node6 - ERROR - Error sending message: Connection lost
+2025-12-12 10:49:55,124 - Node6 - ERROR - Error sending message: Connection lost
+2025-12-12 10:50:26,669 - Node6 - INFO - *** NODE RECOVERED ***
+2025-12-12 10:51:04,227 - Node6 - INFO - *** NODE RECOVERED ***
+2025-12-12 11:07:31,400 - Node6 - INFO - Node 6 initialized (Cluster 2)
+2025-12-12 11:07:31,728 - Node6 - INFO - Server started on localhost:5006
+2025-12-12 11:07:31,728 - Node6 - INFO - Serving on ('::1', 5006, 0, 0)
+2025-12-12 11:11:56,416 - Node6 - INFO - Node 6 initialized (Cluster 2)
+2025-12-12 11:11:56,463 - Node6 - INFO - Server started on localhost:5006
+2025-12-12 11:11:56,463 - Node6 - INFO - Serving on ('::1', 5006, 0, 0)
+2025-12-12 11:12:31,429 - Node6 - INFO - Node 6 initialized (Cluster 2)
+2025-12-12 11:12:31,617 - Node6 - INFO - Server started on localhost:5006
+2025-12-12 11:12:31,617 - Node6 - INFO - Serving on ('::1', 5006, 0, 0)
+2025-12-12 11:18:58,354 - Node6 - INFO - Node 6 initialized (Cluster 2)
+2025-12-12 11:18:58,463 - Node6 - INFO - Server started on localhost:5006
+2025-12-12 11:18:58,463 - Node6 - INFO - Serving on ('::1', 5006, 0, 0)
+2025-12-13 23:33:36,396 - Node6 - INFO - Node 6 initialized (Cluster 2)
+2025-12-13 23:33:36,852 - Node6 - INFO - Server started on localhost:5006
+2025-12-13 23:33:36,852 - Node6 - INFO - Serving on ('127.0.0.1', 5006)

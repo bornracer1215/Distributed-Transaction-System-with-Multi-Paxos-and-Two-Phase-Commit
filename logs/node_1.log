@@ -1,0 +1,1278 @@
+2025-12-12 10:47:41,753 - Node1 - INFO - Node 1 initialized (Cluster 1)
+2025-12-12 10:47:43,749 - Node1 - INFO - Server started on localhost:5001
+2025-12-12 10:47:43,749 - Node1 - INFO - Serving on ('127.0.0.1', 5001)
+2025-12-12 10:48:06,278 - Node1 - INFO - *** NODE RECOVERED ***
+2025-12-12 10:48:48,111 - Node1 - INFO - *** NODE RECOVERED ***
+2025-12-12 10:48:56,832 - Node1 - WARNING - *** NODE FAILED ***
+2025-12-12 10:50:26,122 - Node1 - INFO - *** NODE RECOVERED ***
+2025-12-12 10:50:39,386 - Node1 - WARNING - *** NODE FAILED ***
+2025-12-12 10:51:03,681 - Node1 - INFO - *** NODE RECOVERED ***
+2025-12-12 10:51:56,933 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 2
+2025-12-12 10:51:56,995 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 5
+2025-12-12 10:51:57,433 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 8
+2025-12-12 10:51:57,480 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 10
+2025-12-12 10:51:59,448 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 20
+2025-12-12 10:52:02,604 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 39
+2025-12-12 10:52:03,729 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 45
+2025-12-12 10:52:04,979 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 54
+2025-12-12 10:52:08,291 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 74
+2025-12-12 10:52:09,385 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 80
+2025-12-12 10:52:10,025 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 88
+2025-12-12 10:52:10,947 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 95
+2025-12-12 10:52:11,025 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 97
+2025-12-12 10:52:11,806 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 100
+2025-12-12 10:52:12,009 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 104
+2025-12-12 10:52:12,322 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 106
+2025-12-12 10:52:12,728 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 110
+2025-12-12 10:52:14,853 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 121
+2025-12-12 10:52:17,431 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 136
+2025-12-12 10:52:17,759 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 139
+2025-12-12 10:52:20,961 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 160
+2025-12-12 10:52:25,711 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 194
+2025-12-12 10:52:27,086 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 10:52:27,305 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 10:52:37,501 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 218
+2025-12-12 10:52:37,533 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 220
+2025-12-12 10:52:38,798 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 226
+2025-12-12 10:52:39,111 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 229
+2025-12-12 10:52:41,095 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 238
+2025-12-12 10:52:44,547 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 253
+2025-12-12 10:52:44,547 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 254
+2025-12-12 10:52:45,500 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 260
+2025-12-12 10:52:47,063 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 267
+2025-12-12 10:52:50,234 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 284
+2025-12-12 10:52:50,359 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 285
+2025-12-12 10:52:50,750 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 289
+2025-12-12 10:52:50,766 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 291
+2025-12-12 10:52:52,453 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 298
+2025-12-12 10:53:02,967 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 10:53:07,197 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 348
+2025-12-12 10:53:07,806 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 352
+2025-12-12 10:53:08,556 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 358
+2025-12-12 10:53:09,415 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 361
+2025-12-12 10:53:10,118 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 369
+2025-12-12 10:53:10,603 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 375
+2025-12-12 10:53:10,743 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 379
+2025-12-12 10:53:10,915 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 380
+2025-12-12 10:53:11,524 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 384
+2025-12-12 10:53:11,634 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 385
+2025-12-12 10:53:14,274 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 408
+2025-12-12 10:53:15,415 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 418
+2025-12-12 10:53:16,118 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 423
+2025-12-12 10:53:17,258 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 431
+2025-12-12 10:53:18,524 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 439
+2025-12-12 10:53:18,602 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 440
+2025-12-12 10:53:19,164 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 447
+2025-12-12 10:53:19,711 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 455
+2025-12-12 10:53:20,726 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 466
+2025-12-12 10:53:21,336 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 470
+2025-12-12 10:53:22,898 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 480
+2025-12-12 10:53:22,914 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 481
+2025-12-12 10:53:23,242 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 483
+2025-12-12 10:53:38,231 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 10:53:49,741 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 619
+2025-12-12 10:54:12,520 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 10:54:13,348 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 10:54:19,499 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 737
+2025-12-12 10:54:30,732 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 815
+2025-12-12 10:54:45,168 - Node1 - ERROR - Error handling message from ('::1', 56908, 0, 0): 905
+2025-12-12 10:54:45,996 - Node1 - ERROR - Error handling message from ('::1', 56907, 0, 0): 911
+2025-12-12 10:54:48,080 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 10:54:48,217 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 10:55:20,333 - Node1 - ERROR - Connection error from ('::1', 56996, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-12 10:55:20,973 - Node1 - ERROR - Connection error from ('::1', 56924, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-12 10:55:21,255 - Node1 - ERROR - Connection error from ('::1', 56908, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-12 10:55:21,583 - Node1 - ERROR - Connection error from ('::1', 56907, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-12 11:07:26,776 - Node1 - INFO - Node 1 initialized (Cluster 1)
+2025-12-12 11:07:27,275 - Node1 - INFO - Server started on localhost:5001
+2025-12-12 11:07:27,275 - Node1 - INFO - Serving on ('127.0.0.1', 5001)
+2025-12-12 11:08:04,848 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 922
+2025-12-12 11:08:05,317 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 928
+2025-12-12 11:08:05,895 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 932
+2025-12-12 11:08:07,598 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 943
+2025-12-12 11:08:10,722 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 971
+2025-12-12 11:08:12,160 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 975
+2025-12-12 11:08:12,191 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 977
+2025-12-12 11:08:13,566 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 987
+2025-12-12 11:08:14,410 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 998
+2025-12-12 11:08:14,566 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1000
+2025-12-12 11:08:14,566 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1001
+2025-12-12 11:08:14,863 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1005
+2025-12-12 11:08:15,956 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1014
+2025-12-12 11:08:17,316 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1023
+2025-12-12 11:08:17,972 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1029
+2025-12-12 11:08:21,487 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1052
+2025-12-12 11:08:21,534 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1055
+2025-12-12 11:08:21,643 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1057
+2025-12-12 11:08:23,049 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1066
+2025-12-12 11:08:23,096 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1068
+2025-12-12 11:08:25,721 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1084
+2025-12-12 11:08:25,752 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1085
+2025-12-12 11:08:25,799 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1086
+2025-12-12 11:08:25,815 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1087
+2025-12-12 11:08:26,643 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1099
+2025-12-12 11:08:27,158 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1100
+2025-12-12 11:08:28,892 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1119
+2025-12-12 11:08:29,471 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1122
+2025-12-12 11:08:29,533 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1123
+2025-12-12 11:08:29,580 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1124
+2025-12-12 11:08:29,705 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1125
+2025-12-12 11:08:32,736 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1144
+2025-12-12 11:08:32,923 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1146
+2025-12-12 11:08:33,517 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1151
+2025-12-12 11:08:39,954 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1161
+2025-12-12 11:08:40,016 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1162
+2025-12-12 11:08:40,063 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1164
+2025-12-12 11:08:40,110 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1165
+2025-12-12 11:08:42,079 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1176
+2025-12-12 11:08:42,094 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1177
+2025-12-12 11:08:42,766 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1180
+2025-12-12 11:08:42,907 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1183
+2025-12-12 11:08:43,750 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1191
+2025-12-12 11:08:46,469 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1205
+2025-12-12 11:08:46,500 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1206
+2025-12-12 11:08:49,422 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1226
+2025-12-12 11:08:51,921 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1241
+2025-12-12 11:08:55,811 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1261
+2025-12-12 11:08:56,624 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1266
+2025-12-12 11:08:56,671 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1267
+2025-12-12 11:08:57,264 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1270
+2025-12-12 11:08:57,733 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1277
+2025-12-12 11:09:00,748 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1296
+2025-12-12 11:09:01,295 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1301
+2025-12-12 11:09:01,811 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1304
+2025-12-12 11:09:03,248 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1324
+2025-12-12 11:09:04,592 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1333
+2025-12-12 11:09:08,216 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1351
+2025-12-12 11:09:08,935 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1357
+2025-12-12 11:09:09,435 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1361
+2025-12-12 11:09:09,451 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1363
+2025-12-12 11:09:10,888 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:09:10,888 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:09:11,393 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:09:14,924 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1368
+2025-12-12 11:09:15,112 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1372
+2025-12-12 11:09:16,471 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1379
+2025-12-12 11:09:17,064 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1386
+2025-12-12 11:09:17,799 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1393
+2025-12-12 11:09:17,861 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1394
+2025-12-12 11:09:17,893 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1395
+2025-12-12 11:09:17,986 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1396
+2025-12-12 11:09:18,127 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1401
+2025-12-12 11:09:18,392 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1403
+2025-12-12 11:09:21,626 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1426
+2025-12-12 11:09:21,705 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1427
+2025-12-12 11:09:21,798 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1429
+2025-12-12 11:09:23,142 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1441
+2025-12-12 11:09:23,173 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1442
+2025-12-12 11:09:23,236 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1443
+2025-12-12 11:09:23,267 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1444
+2025-12-12 11:09:23,986 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1447
+2025-12-12 11:09:24,470 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1452
+2025-12-12 11:09:24,970 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1454
+2025-12-12 11:09:25,267 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1462
+2025-12-12 11:09:29,626 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1489
+2025-12-12 11:09:29,688 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1490
+2025-12-12 11:09:29,735 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1491
+2025-12-12 11:09:30,563 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1498
+2025-12-12 11:09:31,311 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1501
+2025-12-12 11:09:31,733 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1503
+2025-12-12 11:09:31,795 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1505
+2025-12-12 11:09:32,123 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1509
+2025-12-12 11:09:32,358 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1513
+2025-12-12 11:09:33,545 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1517
+2025-12-12 11:09:33,561 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1518
+2025-12-12 11:09:35,517 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1529
+2025-12-12 11:09:35,829 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1532
+2025-12-12 11:09:37,345 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1544
+2025-12-12 11:09:38,251 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1546
+2025-12-12 11:09:42,047 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1580
+2025-12-12 11:09:44,828 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:09:45,328 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:09:45,828 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:09:46,141 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:09:46,656 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:10:00,905 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1665
+2025-12-12 11:10:00,905 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1666
+2025-12-12 11:10:20,122 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:10:20,122 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:10:20,637 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:10:26,980 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1774
+2025-12-12 11:10:28,121 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1780
+2025-12-12 11:10:28,121 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1781
+2025-12-12 11:10:34,230 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 1837
+2025-12-12 11:10:42,322 - Node1 - ERROR - Error handling message from ('::1', 63990, 0, 0): 1901
+2025-12-12 11:10:54,399 - Node1 - ERROR - Error handling message from ('::1', 63989, 0, 0): 2005
+2025-12-12 11:10:55,384 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:10:55,884 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:10:56,368 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:11:05,510 - Node1 - ERROR - Connection error from ('::1', 64235, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-12 11:11:06,275 - Node1 - ERROR - Connection error from ('::1', 64050, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-12 11:11:06,557 - Node1 - ERROR - Connection error from ('::1', 63990, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-12 11:11:06,697 - Node1 - ERROR - Connection error from ('::1', 63989, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-12 11:11:51,979 - Node1 - INFO - Node 1 initialized (Cluster 1)
+2025-12-12 11:11:52,010 - Node1 - INFO - Server started on localhost:5001
+2025-12-12 11:11:52,010 - Node1 - INFO - Serving on ('::1', 5001, 0, 0)
+2025-12-12 11:12:27,211 - Node1 - INFO - Node 1 initialized (Cluster 1)
+2025-12-12 11:12:27,461 - Node1 - INFO - Server started on localhost:5001
+2025-12-12 11:12:27,461 - Node1 - INFO - Serving on ('::1', 5001, 0, 0)
+2025-12-12 11:13:04,107 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2009
+2025-12-12 11:13:04,185 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2011
+2025-12-12 11:13:04,216 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2012
+2025-12-12 11:13:04,372 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2013
+2025-12-12 11:13:04,700 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2020
+2025-12-12 11:13:05,060 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2024
+2025-12-12 11:13:05,466 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2025
+2025-12-12 11:13:06,216 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2030
+2025-12-12 11:13:06,232 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2031
+2025-12-12 11:13:06,700 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2033
+2025-12-12 11:13:06,763 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2035
+2025-12-12 11:13:06,794 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2036
+2025-12-12 11:13:07,685 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2039
+2025-12-12 11:13:07,731 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2042
+2025-12-12 11:13:08,216 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2047
+2025-12-12 11:13:08,231 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2048
+2025-12-12 11:13:08,325 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2050
+2025-12-12 11:13:08,403 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2052
+2025-12-12 11:13:09,341 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2060
+2025-12-12 11:13:09,403 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2061
+2025-12-12 11:13:10,153 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2064
+2025-12-12 11:13:10,606 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2071
+2025-12-12 11:13:10,747 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2074
+2025-12-12 11:13:11,778 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2090
+2025-12-12 11:13:12,168 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2091
+2025-12-12 11:13:12,418 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2092
+2025-12-12 11:13:12,481 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2093
+2025-12-12 11:13:12,950 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2097
+2025-12-12 11:13:13,934 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2101
+2025-12-12 11:13:14,731 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2111
+2025-12-12 11:13:14,746 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2112
+2025-12-12 11:13:14,996 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2114
+2025-12-12 11:13:15,777 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2120
+2025-12-12 11:13:16,480 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2128
+2025-12-12 11:13:16,793 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2130
+2025-12-12 11:13:16,824 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2131
+2025-12-12 11:13:17,355 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2132
+2025-12-12 11:13:18,043 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2136
+2025-12-12 11:13:18,074 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2138
+2025-12-12 11:13:18,090 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2139
+2025-12-12 11:13:18,137 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2141
+2025-12-12 11:13:18,183 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2142
+2025-12-12 11:13:18,215 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2144
+2025-12-12 11:13:18,308 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2146
+2025-12-12 11:13:19,543 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2155
+2025-12-12 11:13:19,590 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2157
+2025-12-12 11:13:19,652 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2158
+2025-12-12 11:13:20,636 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2164
+2025-12-12 11:13:20,730 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2166
+2025-12-12 11:13:20,839 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2168
+2025-12-12 11:13:21,105 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2169
+2025-12-12 11:13:23,027 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2174
+2025-12-12 11:13:23,042 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2175
+2025-12-12 11:13:23,120 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2176
+2025-12-12 11:13:23,167 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2177
+2025-12-12 11:13:24,105 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:13:24,183 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2186
+2025-12-12 11:13:24,620 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:13:24,698 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2194
+2025-12-12 11:13:24,745 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2196
+2025-12-12 11:13:24,792 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2198
+2025-12-12 11:13:25,776 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2203
+2025-12-12 11:13:26,292 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2211
+2025-12-12 11:13:27,667 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2219
+2025-12-12 11:13:28,120 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2225
+2025-12-12 11:13:28,167 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2226
+2025-12-12 11:13:29,151 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2228
+2025-12-12 11:13:29,167 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2230
+2025-12-12 11:13:29,182 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2231
+2025-12-12 11:13:29,729 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2239
+2025-12-12 11:13:30,026 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2245
+2025-12-12 11:13:30,167 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2247
+2025-12-12 11:13:30,760 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2249
+2025-12-12 11:13:30,823 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2251
+2025-12-12 11:13:30,885 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2252
+2025-12-12 11:13:30,948 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2253
+2025-12-12 11:13:31,026 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2254
+2025-12-12 11:13:31,041 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2255
+2025-12-12 11:13:31,057 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2256
+2025-12-12 11:13:31,260 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2260
+2025-12-12 11:13:31,588 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2263
+2025-12-12 11:13:31,604 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2265
+2025-12-12 11:13:31,651 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2267
+2025-12-12 11:13:31,666 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2268
+2025-12-12 11:13:32,635 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2274
+2025-12-12 11:13:33,182 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2281
+2025-12-12 11:13:33,744 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2285
+2025-12-12 11:13:34,119 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:13:34,557 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:13:34,635 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:13:39,370 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2301
+2025-12-12 11:13:39,495 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2303
+2025-12-12 11:13:39,573 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2305
+2025-12-12 11:13:39,730 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2307
+2025-12-12 11:13:40,839 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2322
+2025-12-12 11:13:42,323 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2333
+2025-12-12 11:13:42,432 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2334
+2025-12-12 11:13:43,307 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2342
+2025-12-12 11:13:43,370 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2344
+2025-12-12 11:13:43,854 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2350
+2025-12-12 11:13:45,620 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2364
+2025-12-12 11:13:45,666 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2365
+2025-12-12 11:13:45,729 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2366
+2025-12-12 11:13:47,401 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2377
+2025-12-12 11:13:49,354 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2392
+2025-12-12 11:13:49,416 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2393
+2025-12-12 11:13:49,432 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2394
+2025-12-12 11:13:49,572 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2397
+2025-12-12 11:13:50,869 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2404
+2025-12-12 11:13:51,416 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2411
+2025-12-12 11:13:52,556 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2419
+2025-12-12 11:13:53,056 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2422
+2025-12-12 11:13:53,119 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2425
+2025-12-12 11:13:53,150 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2426
+2025-12-12 11:13:53,228 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2428
+2025-12-12 11:13:54,197 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2439
+2025-12-12 11:13:54,697 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2443
+2025-12-12 11:13:54,775 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2444
+2025-12-12 11:13:55,525 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2452
+2025-12-12 11:13:55,587 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2453
+2025-12-12 11:13:55,619 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2454
+2025-12-12 11:13:56,072 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2463
+2025-12-12 11:13:56,103 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2465
+2025-12-12 11:13:56,915 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2475
+2025-12-12 11:13:56,993 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2477
+2025-12-12 11:13:57,493 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2484
+2025-12-12 11:13:57,821 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2487
+2025-12-12 11:13:58,196 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2488
+2025-12-12 11:13:58,400 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2489
+2025-12-12 11:13:58,509 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2490
+2025-12-12 11:13:58,556 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2492
+2025-12-12 11:13:58,571 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2493
+2025-12-12 11:13:58,587 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2495
+2025-12-12 11:13:58,884 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2498
+2025-12-12 11:14:00,415 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:14:00,618 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2510
+2025-12-12 11:14:01,009 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2515
+2025-12-12 11:14:01,227 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2518
+2025-12-12 11:14:01,384 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2519
+2025-12-12 11:14:01,493 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2521
+2025-12-12 11:14:01,696 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2524
+2025-12-12 11:14:01,790 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2525
+2025-12-12 11:14:02,087 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2529
+2025-12-12 11:14:02,149 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2531
+2025-12-12 11:14:02,352 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2533
+2025-12-12 11:14:02,415 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2534
+2025-12-12 11:14:04,524 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2551
+2025-12-12 11:14:04,571 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2552
+2025-12-12 11:14:04,993 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2556
+2025-12-12 11:14:05,055 - Node1 - ERROR - Error handling message from ('::1', 62133, 0, 0): 'f9fcaa12-8f89-42d2-a683-8823350e8a86'
+2025-12-12 11:14:05,071 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2558
+2025-12-12 11:14:05,149 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2559
+2025-12-12 11:14:05,196 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2560
+2025-12-12 11:14:05,274 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2562
+2025-12-12 11:14:05,289 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2563
+2025-12-12 11:14:05,321 - Node1 - ERROR - Error handling message from ('::1', 62231, 0, 0): 'f4a1d3cf-d83e-4186-80bf-5d49e2e998cb'
+2025-12-12 11:14:05,321 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2564
+2025-12-12 11:14:05,774 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2571
+2025-12-12 11:14:06,196 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2575
+2025-12-12 11:14:06,602 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2581
+2025-12-12 11:14:08,352 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2588
+2025-12-12 11:14:08,445 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2590
+2025-12-12 11:14:08,492 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2591
+2025-12-12 11:14:09,055 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2601
+2025-12-12 11:14:09,904 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:14:10,040 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:14:10,958 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:14:11,464 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:14:11,948 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:14:14,401 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2606
+2025-12-12 11:14:14,464 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2607
+2025-12-12 11:14:14,526 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2609
+2025-12-12 11:14:14,542 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2610
+2025-12-12 11:14:18,479 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2659
+2025-12-12 11:14:19,354 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2666
+2025-12-12 11:14:19,354 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2667
+2025-12-12 11:14:23,838 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2727
+2025-12-12 11:14:24,978 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2735
+2025-12-12 11:14:36,211 - Node1 - ERROR - Error handling message from ('::1', 64377, 0, 0): 'e9758b2a-d457-449b-9bf1-65133c56f084'
+2025-12-12 11:14:39,227 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2904
+2025-12-12 11:14:40,305 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2919
+2025-12-12 11:14:44,336 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:14:44,836 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:14:45,343 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:14:45,834 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:14:46,341 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:14:49,388 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2959
+2025-12-12 11:14:51,075 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 2977
+2025-12-12 11:14:51,778 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 2981
+2025-12-12 11:15:04,725 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:05,225 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:05,740 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:05,772 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3097
+2025-12-12 11:15:06,959 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3110
+2025-12-12 11:15:07,256 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3112
+2025-12-12 11:15:09,302 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3125
+2025-12-12 11:15:09,302 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3126
+2025-12-12 11:15:09,318 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3127
+2025-12-12 11:15:09,849 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:09,865 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3129
+2025-12-12 11:15:09,865 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3130
+2025-12-12 11:15:09,881 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3131
+2025-12-12 11:15:09,896 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3132
+2025-12-12 11:15:10,381 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:10,396 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3135
+2025-12-12 11:15:10,865 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:11,381 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:11,880 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:12,099 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3144
+2025-12-12 11:15:12,396 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:12,896 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:13,396 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:13,896 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:14,411 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:14,911 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:15,208 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3171
+2025-12-12 11:15:15,396 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:15,911 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:16,411 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:16,927 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:17,911 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3186
+2025-12-12 11:15:17,958 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:18,458 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:18,958 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:19,239 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3195
+2025-12-12 11:15:19,458 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:19,520 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:19,948 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:20,448 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:20,553 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:20,953 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:21,460 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:24,397 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3199
+2025-12-12 11:15:24,491 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3203
+2025-12-12 11:15:24,491 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3204
+2025-12-12 11:15:24,491 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3205
+2025-12-12 11:15:24,491 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3206
+2025-12-12 11:15:26,022 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3234
+2025-12-12 11:15:26,803 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3238
+2025-12-12 11:15:26,803 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3239
+2025-12-12 11:15:26,803 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3240
+2025-12-12 11:15:27,397 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3251
+2025-12-12 11:15:27,397 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3252
+2025-12-12 11:15:27,740 - Node1 - ERROR - Error handling message from ('::1', 50853, 0, 0): '458e60c3-56aa-4587-a30a-4d42c7a0e6b9'
+2025-12-12 11:15:27,756 - Node1 - ERROR - Error handling message from ('::1', 50852, 0, 0): '21c7e36e-850e-4735-8ade-64858fa62322'
+2025-12-12 11:15:27,928 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3258
+2025-12-12 11:15:29,959 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3277
+2025-12-12 11:15:30,271 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3281
+2025-12-12 11:15:30,506 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3294
+2025-12-12 11:15:31,912 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3304
+2025-12-12 11:15:33,458 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3340
+2025-12-12 11:15:34,021 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3349
+2025-12-12 11:15:36,099 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3370
+2025-12-12 11:15:36,099 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3372
+2025-12-12 11:15:36,130 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3373
+2025-12-12 11:15:36,130 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3374
+2025-12-12 11:15:36,599 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3379
+2025-12-12 11:15:37,614 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3396
+2025-12-12 11:15:37,645 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3397
+2025-12-12 11:15:38,239 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3403
+2025-12-12 11:15:38,661 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3409
+2025-12-12 11:15:39,114 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3416
+2025-12-12 11:15:39,208 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3419
+2025-12-12 11:15:39,536 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3424
+2025-12-12 11:15:40,551 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3434
+2025-12-12 11:15:40,551 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3435
+2025-12-12 11:15:41,629 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3442
+2025-12-12 11:15:41,739 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3446
+2025-12-12 11:15:41,801 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3450
+2025-12-12 11:15:41,879 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3452
+2025-12-12 11:15:44,160 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3474
+2025-12-12 11:15:44,785 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3481
+2025-12-12 11:15:46,926 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3497
+2025-12-12 11:15:46,941 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3498
+2025-12-12 11:15:47,066 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3502
+2025-12-12 11:15:47,113 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3504
+2025-12-12 11:15:47,473 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3510
+2025-12-12 11:15:47,910 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3513
+2025-12-12 11:15:48,394 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3519
+2025-12-12 11:15:48,801 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3520
+2025-12-12 11:15:49,988 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3539
+2025-12-12 11:15:50,910 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3551
+2025-12-12 11:15:52,425 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3561
+2025-12-12 11:15:52,956 - Node1 - ERROR - Error handling message from ('::1', 56800, 0, 0): 3569
+2025-12-12 11:15:53,753 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3577
+2025-12-12 11:15:54,316 - Node1 - ERROR - Error handling message from ('::1', 56799, 0, 0): 3583
+2025-12-12 11:15:54,753 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:55,257 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:55,599 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:55,748 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:15:56,250 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:18:43,557 - Node1 - ERROR - Connection error from ('::1', 56892, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-12 11:18:44,197 - Node1 - ERROR - Connection error from ('::1', 56911, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-12 11:18:44,353 - Node1 - ERROR - Connection error from ('::1', 56799, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-12 11:18:44,634 - Node1 - ERROR - Connection error from ('::1', 56800, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-12 11:18:54,042 - Node1 - INFO - Node 1 initialized (Cluster 1)
+2025-12-12 11:18:54,292 - Node1 - INFO - Server started on localhost:5001
+2025-12-12 11:18:54,292 - Node1 - INFO - Serving on ('::1', 5001, 0, 0)
+2025-12-12 11:20:09,658 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3586
+2025-12-12 11:20:09,674 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3587
+2025-12-12 11:20:09,736 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3588
+2025-12-12 11:20:09,799 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3589
+2025-12-12 11:20:09,892 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3591
+2025-12-12 11:20:10,689 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3597
+2025-12-12 11:20:10,845 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3599
+2025-12-12 11:20:10,924 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3600
+2025-12-12 11:20:10,955 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3602
+2025-12-12 11:20:10,955 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3603
+2025-12-12 11:20:10,970 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3604
+2025-12-12 11:20:10,970 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3605
+2025-12-12 11:20:10,986 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3606
+2025-12-12 11:20:12,720 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3616
+2025-12-12 11:20:12,783 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3617
+2025-12-12 11:20:12,876 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3618
+2025-12-12 11:20:12,986 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3619
+2025-12-12 11:20:13,017 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3620
+2025-12-12 11:20:14,798 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3634
+2025-12-12 11:20:16,392 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3646
+2025-12-12 11:20:16,423 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3647
+2025-12-12 11:20:17,688 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3660
+2025-12-12 11:20:17,704 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3661
+2025-12-12 11:20:17,720 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3663
+2025-12-12 11:20:17,814 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3666
+2025-12-12 11:20:19,001 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3677
+2025-12-12 11:20:19,610 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3680
+2025-12-12 11:20:19,673 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3682
+2025-12-12 11:20:19,688 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3683
+2025-12-12 11:20:19,735 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3684
+2025-12-12 11:20:19,766 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3685
+2025-12-12 11:20:19,782 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3686
+2025-12-12 11:20:19,798 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3687
+2025-12-12 11:20:19,829 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3688
+2025-12-12 11:20:19,907 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3690
+2025-12-12 11:20:19,954 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3691
+2025-12-12 11:20:20,094 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3694
+2025-12-12 11:20:20,173 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3695
+2025-12-12 11:20:20,235 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3696
+2025-12-12 11:20:20,282 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3697
+2025-12-12 11:20:20,376 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3698
+2025-12-12 11:20:20,501 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3700
+2025-12-12 11:20:20,735 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3703
+2025-12-12 11:20:21,157 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3709
+2025-12-12 11:20:21,266 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3710
+2025-12-12 11:20:21,469 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3711
+2025-12-12 11:20:21,547 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3713
+2025-12-12 11:20:21,688 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3714
+2025-12-12 11:20:21,766 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3715
+2025-12-12 11:20:21,844 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3716
+2025-12-12 11:20:21,907 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3717
+2025-12-12 11:20:21,938 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3718
+2025-12-12 11:20:21,938 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3719
+2025-12-12 11:20:21,954 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3721
+2025-12-12 11:20:21,969 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3722
+2025-12-12 11:20:22,360 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3725
+2025-12-12 11:20:23,360 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3733
+2025-12-12 11:20:23,375 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3734
+2025-12-12 11:20:23,438 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3735
+2025-12-12 11:20:24,594 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3744
+2025-12-12 11:20:24,860 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3745
+2025-12-12 11:20:24,891 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3747
+2025-12-12 11:20:24,922 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3748
+2025-12-12 11:20:24,953 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3749
+2025-12-12 11:20:24,985 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3750
+2025-12-12 11:20:25,438 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3756
+2025-12-12 11:20:25,781 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3759
+2025-12-12 11:20:25,844 - Node1 - ERROR - Error handling message from ('::1', 54741, 0, 0): '7dc1891d-57f9-42c5-9fb0-389ef0d2023c'
+2025-12-12 11:20:25,969 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3761
+2025-12-12 11:20:26,031 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3762
+2025-12-12 11:20:28,781 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3784
+2025-12-12 11:20:28,828 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3785
+2025-12-12 11:20:28,922 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3786
+2025-12-12 11:20:28,984 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3787
+2025-12-12 11:20:29,031 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3788
+2025-12-12 11:20:29,219 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3789
+2025-12-12 11:20:29,265 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3790
+2025-12-12 11:20:29,281 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3791
+2025-12-12 11:20:29,578 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3793
+2025-12-12 11:20:29,922 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3798
+2025-12-12 11:20:29,953 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3799
+2025-12-12 11:20:30,640 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3801
+2025-12-12 11:20:30,765 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3802
+2025-12-12 11:20:30,812 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3803
+2025-12-12 11:20:30,875 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3805
+2025-12-12 11:20:30,953 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3806
+2025-12-12 11:20:31,031 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3807
+2025-12-12 11:20:31,187 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3809
+2025-12-12 11:20:31,312 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3810
+2025-12-12 11:20:31,359 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3811
+2025-12-12 11:20:31,406 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3812
+2025-12-12 11:20:32,781 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3826
+2025-12-12 11:20:32,796 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3828
+2025-12-12 11:20:32,953 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3831
+2025-12-12 11:20:32,968 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3833
+2025-12-12 11:20:34,359 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3841
+2025-12-12 11:20:34,452 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3843
+2025-12-12 11:20:34,609 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3846
+2025-12-12 11:20:34,765 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3847
+2025-12-12 11:20:34,859 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3849
+2025-12-12 11:20:34,968 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3850
+2025-12-12 11:20:35,015 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3851
+2025-12-12 11:20:35,077 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3852
+2025-12-12 11:20:35,109 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3853
+2025-12-12 11:20:35,140 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3854
+2025-12-12 11:20:35,218 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3855
+2025-12-12 11:20:35,280 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3856
+2025-12-12 11:20:35,468 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3859
+2025-12-12 11:20:35,546 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3860
+2025-12-12 11:20:36,499 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3863
+2025-12-12 11:20:36,546 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3864
+2025-12-12 11:20:36,593 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3865
+2025-12-12 11:20:36,655 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3866
+2025-12-12 11:20:36,686 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3868
+2025-12-12 11:20:36,718 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3869
+2025-12-12 11:20:36,718 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3870
+2025-12-12 11:20:36,733 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3871
+2025-12-12 11:20:36,749 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3872
+2025-12-12 11:20:36,827 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3874
+2025-12-12 11:20:36,905 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3875
+2025-12-12 11:20:36,952 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3877
+2025-12-12 11:20:36,999 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3878
+2025-12-12 11:20:37,046 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3879
+2025-12-12 11:20:37,077 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3880
+2025-12-12 11:20:37,593 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3885
+2025-12-12 11:20:37,671 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3886
+2025-12-12 11:20:37,749 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3887
+2025-12-12 11:20:37,843 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3888
+2025-12-12 11:20:37,921 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3890
+2025-12-12 11:20:39,421 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3906
+2025-12-12 11:20:39,452 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3907
+2025-12-12 11:20:40,092 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3912
+2025-12-12 11:20:40,249 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:20:41,858 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3926
+2025-12-12 11:20:41,873 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3927
+2025-12-12 11:20:41,920 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3928
+2025-12-12 11:20:41,920 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3929
+2025-12-12 11:20:41,936 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3931
+2025-12-12 11:20:42,451 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3935
+2025-12-12 11:20:42,998 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3942
+2025-12-12 11:20:43,139 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3944
+2025-12-12 11:20:43,498 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3950
+2025-12-12 11:20:43,514 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3951
+2025-12-12 11:20:44,170 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3955
+2025-12-12 11:20:44,717 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3960
+2025-12-12 11:20:44,748 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3961
+2025-12-12 11:20:44,857 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3962
+2025-12-12 11:20:44,889 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3963
+2025-12-12 11:20:45,404 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 3966
+2025-12-12 11:20:45,451 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3967
+2025-12-12 11:20:47,873 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 3989
+2025-12-12 11:20:50,997 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4010
+2025-12-12 11:20:51,107 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4014
+2025-12-12 11:20:51,138 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4015
+2025-12-12 11:20:51,169 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4016
+2025-12-12 11:20:52,044 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4020
+2025-12-12 11:20:52,107 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4021
+2025-12-12 11:20:52,591 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4024
+2025-12-12 11:20:53,419 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4031
+2025-12-12 11:20:53,482 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4033
+2025-12-12 11:20:53,732 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4037
+2025-12-12 11:20:53,794 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4038
+2025-12-12 11:20:53,825 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4039
+2025-12-12 11:20:53,872 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4040
+2025-12-12 11:20:53,888 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4041
+2025-12-12 11:20:54,544 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4047
+2025-12-12 11:20:54,606 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4048
+2025-12-12 11:20:54,653 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4050
+2025-12-12 11:20:55,403 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4057
+2025-12-12 11:20:56,872 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4070
+2025-12-12 11:20:56,919 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:20:57,278 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4076
+2025-12-12 11:20:57,403 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:20:57,903 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4080
+2025-12-12 11:20:57,919 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:20:58,419 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:20:58,559 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4085
+2025-12-12 11:20:58,856 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4090
+2025-12-12 11:20:58,872 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4091
+2025-12-12 11:20:58,950 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:20:59,590 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4102
+2025-12-12 11:20:59,590 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4104
+2025-12-12 11:20:59,762 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4106
+2025-12-12 11:21:00,137 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:00,246 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4109
+2025-12-12 11:21:00,278 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4110
+2025-12-12 11:21:00,684 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:01,231 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:01,731 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:01,871 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4124
+2025-12-12 11:21:01,918 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4127
+2025-12-12 11:21:01,934 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4128
+2025-12-12 11:21:02,028 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4130
+2025-12-12 11:21:02,090 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4131
+2025-12-12 11:21:02,121 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4133
+2025-12-12 11:21:02,231 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:02,731 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:03,231 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:03,730 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:04,230 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:04,559 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4163
+2025-12-12 11:21:04,574 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4164
+2025-12-12 11:21:04,621 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4165
+2025-12-12 11:21:04,762 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:04,762 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4169
+2025-12-12 11:21:05,418 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4171
+2025-12-12 11:21:05,465 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:05,527 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4172
+2025-12-12 11:21:05,543 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4173
+2025-12-12 11:21:05,699 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4174
+2025-12-12 11:21:05,730 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4176
+2025-12-12 11:21:05,777 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4177
+2025-12-12 11:21:05,793 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4178
+2025-12-12 11:21:05,855 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4180
+2025-12-12 11:21:05,887 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4181
+2025-12-12 11:21:06,043 - Node1 - ERROR - Error handling message from ('::1', 57831, 0, 0): '3eddd0bd-fffa-4aad-ac9b-4c01a0a4c088'
+2025-12-12 11:21:06,058 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:06,105 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4184
+2025-12-12 11:21:06,199 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4185
+2025-12-12 11:21:06,277 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4186
+2025-12-12 11:21:06,308 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4187
+2025-12-12 11:21:06,371 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4188
+2025-12-12 11:21:06,418 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4189
+2025-12-12 11:21:06,511 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4190
+2025-12-12 11:21:06,558 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4191
+2025-12-12 11:21:06,636 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4192
+2025-12-12 11:21:06,699 - Node1 - ERROR - Error handling message from ('::1', 57915, 0, 0): '0a776b15-3d66-403f-b223-f64f71d369f2'
+2025-12-12 11:21:06,715 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:06,730 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4193
+2025-12-12 11:21:06,746 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4194
+2025-12-12 11:21:06,777 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4195
+2025-12-12 11:21:06,824 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4196
+2025-12-12 11:21:06,840 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4197
+2025-12-12 11:21:06,840 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4198
+2025-12-12 11:21:06,840 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4199
+2025-12-12 11:21:07,043 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4201
+2025-12-12 11:21:07,246 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:07,746 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:08,261 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:08,746 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:09,261 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:09,761 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:10,105 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:10,246 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:10,841 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:11,375 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:11,875 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:12,375 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:14,781 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4229
+2025-12-12 11:21:16,171 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4250
+2025-12-12 11:21:17,578 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4275
+2025-12-12 11:21:18,531 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:19,359 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:19,406 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4297
+2025-12-12 11:21:19,515 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4299
+2025-12-12 11:21:20,374 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:20,874 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:21,499 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4328
+2025-12-12 11:21:22,890 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:23,374 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:23,874 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:24,796 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:24,842 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4356
+2025-12-12 11:21:24,889 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4357
+2025-12-12 11:21:25,327 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:25,827 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:21:50,515 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4593
+2025-12-12 11:21:52,046 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4604
+2025-12-12 11:21:54,733 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4639
+2025-12-12 11:21:58,279 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4672
+2025-12-12 11:21:59,139 - Node1 - ERROR - Error handling message from ('::1', 65389, 0, 0): 'fbcf2d88-bfbe-49a1-99a5-c2cd0703a0ac'
+2025-12-12 11:22:00,139 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4698
+2025-12-12 11:22:01,092 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4707
+2025-12-12 11:22:01,201 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4711
+2025-12-12 11:22:01,513 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4718
+2025-12-12 11:22:01,638 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4722
+2025-12-12 11:22:01,904 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4727
+2025-12-12 11:22:01,982 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4730
+2025-12-12 11:22:02,685 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4736
+2025-12-12 11:22:02,701 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4737
+2025-12-12 11:22:02,701 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4738
+2025-12-12 11:22:02,716 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4740
+2025-12-12 11:22:04,404 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4756
+2025-12-12 11:22:05,825 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4762
+2025-12-12 11:22:07,169 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4780
+2025-12-12 11:22:08,231 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4791
+2025-12-12 11:22:08,263 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4793
+2025-12-12 11:22:08,294 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4794
+2025-12-12 11:22:09,091 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4799
+2025-12-12 11:22:09,122 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4800
+2025-12-12 11:22:09,122 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4801
+2025-12-12 11:22:09,122 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4802
+2025-12-12 11:22:09,919 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4810
+2025-12-12 11:22:11,794 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4840
+2025-12-12 11:22:14,418 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4864
+2025-12-12 11:22:14,496 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4867
+2025-12-12 11:22:14,496 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4868
+2025-12-12 11:22:14,903 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:14,934 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:15,785 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:16,199 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:16,277 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:16,704 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:19,798 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4875
+2025-12-12 11:22:19,813 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4877
+2025-12-12 11:22:19,845 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4878
+2025-12-12 11:22:19,845 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4879
+2025-12-12 11:22:19,892 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4883
+2025-12-12 11:22:19,923 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4884
+2025-12-12 11:22:19,954 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4885
+2025-12-12 11:22:19,985 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4886
+2025-12-12 11:22:19,985 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4887
+2025-12-12 11:22:19,985 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4888
+2025-12-12 11:22:20,017 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4889
+2025-12-12 11:22:20,017 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4890
+2025-12-12 11:22:20,032 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4892
+2025-12-12 11:22:20,032 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4893
+2025-12-12 11:22:20,048 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4894
+2025-12-12 11:22:20,063 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4895
+2025-12-12 11:22:20,095 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4898
+2025-12-12 11:22:20,313 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4906
+2025-12-12 11:22:21,141 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4909
+2025-12-12 11:22:21,141 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4911
+2025-12-12 11:22:21,173 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4912
+2025-12-12 11:22:21,688 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4916
+2025-12-12 11:22:23,094 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:23,141 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4923
+2025-12-12 11:22:23,141 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4924
+2025-12-12 11:22:23,141 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4925
+2025-12-12 11:22:23,172 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4927
+2025-12-12 11:22:23,188 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4928
+2025-12-12 11:22:23,938 - Node1 - ERROR - Error handling message from ('::1', 52567, 0, 0): 'a68ae8ea-bb49-48de-9e1f-4a1f2c8e1f0a'
+2025-12-12 11:22:24,141 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4942
+2025-12-12 11:22:24,610 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:25,110 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:26,735 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4961
+2025-12-12 11:22:26,985 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4964
+2025-12-12 11:22:29,859 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4981
+2025-12-12 11:22:29,875 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4982
+2025-12-12 11:22:29,906 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4984
+2025-12-12 11:22:30,562 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 4990
+2025-12-12 11:22:31,047 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 4996
+2025-12-12 11:22:32,531 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5010
+2025-12-12 11:22:32,562 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5011
+2025-12-12 11:22:32,562 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5012
+2025-12-12 11:22:32,609 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5015
+2025-12-12 11:22:32,609 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5016
+2025-12-12 11:22:32,671 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5018
+2025-12-12 11:22:32,671 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5020
+2025-12-12 11:22:33,062 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5023
+2025-12-12 11:22:34,390 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5033
+2025-12-12 11:22:35,374 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5044
+2025-12-12 11:22:35,406 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5045
+2025-12-12 11:22:35,406 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5046
+2025-12-12 11:22:35,406 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5047
+2025-12-12 11:22:35,437 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5048
+2025-12-12 11:22:35,890 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5053
+2025-12-12 11:22:36,921 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5066
+2025-12-12 11:22:39,218 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5082
+2025-12-12 11:22:40,311 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5098
+2025-12-12 11:22:40,921 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5104
+2025-12-12 11:22:40,952 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5106
+2025-12-12 11:22:41,311 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5108
+2025-12-12 11:22:41,733 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5111
+2025-12-12 11:22:41,842 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5113
+2025-12-12 11:22:41,905 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5117
+2025-12-12 11:22:42,155 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5122
+2025-12-12 11:22:42,342 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5129
+2025-12-12 11:22:43,170 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5137
+2025-12-12 11:22:43,452 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5142
+2025-12-12 11:22:44,545 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5150
+2025-12-12 11:22:44,576 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5152
+2025-12-12 11:22:44,967 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5155
+2025-12-12 11:22:45,404 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5158
+2025-12-12 11:22:45,404 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5159
+2025-12-12 11:22:45,467 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5163
+2025-12-12 11:22:45,545 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:45,905 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5168
+2025-12-12 11:22:45,920 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5169
+2025-12-12 11:22:46,029 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5174
+2025-12-12 11:22:46,029 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:46,029 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5176
+2025-12-12 11:22:46,545 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:46,779 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5186
+2025-12-12 11:22:46,857 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5189
+2025-12-12 11:22:47,045 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:47,529 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:48,029 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:48,514 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5205
+2025-12-12 11:22:48,545 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:49,045 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:49,529 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:49,607 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5215
+2025-12-12 11:22:50,045 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:50,060 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5219
+2025-12-12 11:22:50,795 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5229
+2025-12-12 11:22:50,810 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:50,826 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5230
+2025-12-12 11:22:50,826 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5231
+2025-12-12 11:22:50,841 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5232
+2025-12-12 11:22:51,248 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5238
+2025-12-12 11:22:51,248 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5240
+2025-12-12 11:22:51,326 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:51,482 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5244
+2025-12-12 11:22:51,841 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:52,998 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:53,513 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:53,513 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5271
+2025-12-12 11:22:53,919 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5277
+2025-12-12 11:22:53,950 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5279
+2025-12-12 11:22:54,013 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:54,075 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5284
+2025-12-12 11:22:54,107 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5286
+2025-12-12 11:22:54,497 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:55,028 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:55,028 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5291
+2025-12-12 11:22:55,075 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5292
+2025-12-12 11:22:55,075 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5293
+2025-12-12 11:22:55,544 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:56,044 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:56,528 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:57,044 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:57,091 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5311
+2025-12-12 11:22:57,528 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:58,028 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:58,544 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:59,075 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:22:59,575 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:00,372 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:00,372 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5349
+2025-12-12 11:23:00,372 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5350
+2025-12-12 11:23:00,372 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5351
+2025-12-12 11:23:00,872 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:01,075 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5360
+2025-12-12 11:23:01,387 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:01,871 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:02,231 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5373
+2025-12-12 11:23:02,372 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:03,965 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5393
+2025-12-12 11:23:04,012 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5396
+2025-12-12 11:23:04,028 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5397
+2025-12-12 11:23:05,324 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5405
+2025-12-12 11:23:05,324 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5406
+2025-12-12 11:23:05,340 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5408
+2025-12-12 11:23:05,340 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5409
+2025-12-12 11:23:05,355 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5410
+2025-12-12 11:23:05,387 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5412
+2025-12-12 11:23:05,809 - Node1 - ERROR - Error handling message from ('::1', 55317, 0, 0): '74cedcae-0512-4038-a327-e62c6d390c2e'
+2025-12-12 11:23:05,840 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5417
+2025-12-12 11:23:06,121 - Node1 - ERROR - Error handling message from ('::1', 55350, 0, 0): 'ce9e68e4-e28e-4cd9-acf8-69b05951cabb'
+2025-12-12 11:23:07,027 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5437
+2025-12-12 11:23:07,340 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5443
+2025-12-12 11:23:07,886 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5456
+2025-12-12 11:23:07,980 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5462
+2025-12-12 11:23:08,090 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5466
+2025-12-12 11:23:08,996 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5475
+2025-12-12 11:23:09,074 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5479
+2025-12-12 11:23:09,511 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5489
+2025-12-12 11:23:09,558 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5492
+2025-12-12 11:23:09,558 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5494
+2025-12-12 11:23:09,589 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5495
+2025-12-12 11:23:10,043 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5499
+2025-12-12 11:23:11,933 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5530
+2025-12-12 11:23:11,980 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5532
+2025-12-12 11:23:12,214 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5538
+2025-12-12 11:23:12,870 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5540
+2025-12-12 11:23:12,870 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5541
+2025-12-12 11:23:12,870 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5542
+2025-12-12 11:23:13,308 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:13,823 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:13,839 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5552
+2025-12-12 11:23:14,855 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5562
+2025-12-12 11:23:14,855 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5563
+2025-12-12 11:23:16,026 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5575
+2025-12-12 11:23:16,854 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:16,979 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5587
+2025-12-12 11:23:16,979 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5589
+2025-12-12 11:23:17,042 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5590
+2025-12-12 11:23:17,370 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:17,401 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5597
+2025-12-12 11:23:17,932 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:19,432 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5614
+2025-12-12 11:23:19,948 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:19,995 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:20,448 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:20,500 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:20,939 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:24,872 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5629
+2025-12-12 11:23:24,919 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5630
+2025-12-12 11:23:24,919 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5631
+2025-12-12 11:23:24,950 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5632
+2025-12-12 11:23:24,950 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5633
+2025-12-12 11:23:24,950 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5634
+2025-12-12 11:23:26,184 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5641
+2025-12-12 11:23:26,184 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5642
+2025-12-12 11:23:26,684 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5644
+2025-12-12 11:23:26,684 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5645
+2025-12-12 11:23:26,684 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5646
+2025-12-12 11:23:26,715 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5647
+2025-12-12 11:23:27,543 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5649
+2025-12-12 11:23:27,575 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5650
+2025-12-12 11:23:27,575 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5651
+2025-12-12 11:23:27,575 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5652
+2025-12-12 11:23:28,184 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:28,700 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:28,715 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5664
+2025-12-12 11:23:29,215 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5666
+2025-12-12 11:23:30,199 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:30,215 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5668
+2025-12-12 11:23:30,730 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5673
+2025-12-12 11:23:30,762 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5674
+2025-12-12 11:23:31,231 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:31,277 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5676
+2025-12-12 11:23:31,402 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5677
+2025-12-12 11:23:31,730 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:32,449 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5688
+2025-12-12 11:23:33,793 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5698
+2025-12-12 11:23:34,277 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5700
+2025-12-12 11:23:34,777 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5703
+2025-12-12 11:23:35,574 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5709
+2025-12-12 11:23:35,574 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5711
+2025-12-12 11:23:37,605 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5726
+2025-12-12 11:23:37,605 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5727
+2025-12-12 11:23:39,151 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5740
+2025-12-12 11:23:40,870 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5750
+2025-12-12 11:23:40,886 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5751
+2025-12-12 11:23:40,886 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5753
+2025-12-12 11:23:41,870 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5761
+2025-12-12 11:23:42,370 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5766
+2025-12-12 11:23:42,401 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5768
+2025-12-12 11:23:43,385 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5776
+2025-12-12 11:23:43,417 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5777
+2025-12-12 11:23:45,823 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5793
+2025-12-12 11:23:46,323 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5799
+2025-12-12 11:23:46,854 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5800
+2025-12-12 11:23:49,885 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:50,369 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:50,885 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:51,385 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:23:51,666 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5828
+2025-12-12 11:23:51,916 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5829
+2025-12-12 11:23:51,916 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5831
+2025-12-12 11:23:53,322 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5837
+2025-12-12 11:23:54,337 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5843
+2025-12-12 11:23:56,353 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5850
+2025-12-12 11:23:56,837 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5856
+2025-12-12 11:24:00,024 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5873
+2025-12-12 11:24:00,055 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5875
+2025-12-12 11:24:00,087 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5877
+2025-12-12 11:24:00,087 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5879
+2025-12-12 11:24:00,977 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5882
+2025-12-12 11:24:00,977 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5883
+2025-12-12 11:24:02,587 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5895
+2025-12-12 11:24:03,618 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5900
+2025-12-12 11:24:04,274 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:24:07,149 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5917
+2025-12-12 11:24:13,085 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5951
+2025-12-12 11:24:13,085 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5962
+2025-12-12 11:24:15,710 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5977
+2025-12-12 11:24:15,710 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5978
+2025-12-12 11:24:15,710 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 5979
+2025-12-12 11:24:15,741 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5981
+2025-12-12 11:24:15,741 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5983
+2025-12-12 11:24:17,835 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5989
+2025-12-12 11:24:20,835 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 5998
+2025-12-12 11:24:22,834 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6008
+2025-12-12 11:24:23,834 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6016
+2025-12-12 11:24:24,631 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6018
+2025-12-12 11:24:25,131 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:24:25,178 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6020
+2025-12-12 11:24:25,635 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:24:26,134 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:24:26,634 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:24:29,946 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6050
+2025-12-12 11:24:29,946 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6051
+2025-12-12 11:24:29,962 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6054
+2025-12-12 11:24:30,009 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6055
+2025-12-12 11:24:30,134 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6063
+2025-12-12 11:24:30,165 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6066
+2025-12-12 11:24:31,368 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6078
+2025-12-12 11:24:31,368 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6079
+2025-12-12 11:24:31,805 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6084
+2025-12-12 11:24:31,805 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6085
+2025-12-12 11:24:32,899 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6092
+2025-12-12 11:24:32,930 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6093
+2025-12-12 11:24:32,946 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6095
+2025-12-12 11:24:33,071 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6100
+2025-12-12 11:24:33,086 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6101
+2025-12-12 11:24:33,086 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6102
+2025-12-12 11:24:33,086 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6103
+2025-12-12 11:24:33,805 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6111
+2025-12-12 11:24:33,805 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6112
+2025-12-12 11:24:35,102 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6123
+2025-12-12 11:24:35,321 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6129
+2025-12-12 11:24:35,711 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6136
+2025-12-12 11:24:35,758 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6138
+2025-12-12 11:24:36,399 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6145
+2025-12-12 11:24:36,430 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6147
+2025-12-12 11:24:36,461 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6149
+2025-12-12 11:24:37,742 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6156
+2025-12-12 11:24:38,273 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6165
+2025-12-12 11:24:39,367 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6179
+2025-12-12 11:24:39,430 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6181
+2025-12-12 11:24:39,445 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6182
+2025-12-12 11:24:39,461 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6183
+2025-12-12 11:24:39,461 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6184
+2025-12-12 11:24:40,554 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6201
+2025-12-12 11:24:41,070 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6209
+2025-12-12 11:24:41,117 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6212
+2025-12-12 11:24:41,476 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6220
+2025-12-12 11:24:41,976 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6223
+2025-12-12 11:24:41,992 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6224
+2025-12-12 11:24:42,007 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6225
+2025-12-12 11:24:42,039 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6227
+2025-12-12 11:24:42,585 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6234
+2025-12-12 11:24:42,585 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6235
+2025-12-12 11:24:47,397 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6283
+2025-12-12 11:24:47,413 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6285
+2025-12-12 11:24:47,460 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6287
+2025-12-12 11:24:48,069 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6297
+2025-12-12 11:24:48,710 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6306
+2025-12-12 11:24:49,382 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6308
+2025-12-12 11:24:49,475 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6312
+2025-12-12 11:24:49,507 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6314
+2025-12-12 11:24:50,397 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6322
+2025-12-12 11:24:50,412 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6323
+2025-12-12 11:24:51,865 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6344
+2025-12-12 11:24:51,881 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6345
+2025-12-12 11:24:51,881 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6346
+2025-12-12 11:24:54,105 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6366
+2025-12-12 11:24:54,136 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6367
+2025-12-12 11:24:55,199 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6382
+2025-12-12 11:24:55,355 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6385
+2025-12-12 11:24:55,370 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6388
+2025-12-12 11:24:55,792 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6394
+2025-12-12 11:24:56,011 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6399
+2025-12-12 11:24:56,011 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6400
+2025-12-12 11:24:56,120 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6402
+2025-12-12 11:24:56,948 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6405
+2025-12-12 11:24:56,980 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6406
+2025-12-12 11:24:56,980 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6408
+2025-12-12 11:24:56,995 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6409
+2025-12-12 11:24:59,464 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:24:59,948 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:24:59,964 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6447
+2025-12-12 11:25:00,448 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:25:00,901 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6455
+2025-12-12 11:25:00,901 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6456
+2025-12-12 11:25:00,948 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:25:01,182 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6460
+2025-12-12 11:25:01,292 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6464
+2025-12-12 11:25:01,448 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:25:02,182 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:25:02,198 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6469
+2025-12-12 11:25:02,213 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6470
+2025-12-12 11:25:02,713 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:25:03,198 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:25:03,291 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6482
+2025-12-12 11:25:03,698 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:25:03,713 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6487
+2025-12-12 11:25:04,213 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:25:04,276 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6494
+2025-12-12 11:25:04,323 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6496
+2025-12-12 11:25:05,713 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:25:06,354 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6521
+2025-12-12 11:25:06,432 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6524
+2025-12-12 11:25:07,197 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6526
+2025-12-12 11:25:07,213 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6527
+2025-12-12 11:25:07,213 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6528
+2025-12-12 11:25:07,213 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6529
+2025-12-12 11:25:08,072 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6538
+2025-12-12 11:25:08,228 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6541
+2025-12-12 11:25:08,775 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6547
+2025-12-12 11:25:08,822 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6550
+2025-12-12 11:25:08,885 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6551
+2025-12-12 11:25:09,228 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6557
+2025-12-12 11:25:10,650 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6569
+2025-12-12 11:25:10,697 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6571
+2025-12-12 11:25:12,322 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6590
+2025-12-12 11:25:12,400 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6594
+2025-12-12 11:25:12,947 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6603
+2025-12-12 11:25:13,072 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6606
+2025-12-12 11:25:13,212 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6609
+2025-12-12 11:25:14,368 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6621
+2025-12-12 11:25:15,681 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6634
+2025-12-12 11:25:16,149 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6643
+2025-12-12 11:25:16,165 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6644
+2025-12-12 11:25:16,196 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6645
+2025-12-12 11:25:16,306 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6647
+2025-12-12 11:25:16,806 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6649
+2025-12-12 11:25:16,806 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6650
+2025-12-12 11:25:16,899 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6655
+2025-12-12 11:25:17,071 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6658
+2025-12-12 11:25:17,134 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6660
+2025-12-12 11:25:18,790 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6697
+2025-12-12 11:25:18,852 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6699
+2025-12-12 11:25:18,884 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6701
+2025-12-12 11:25:18,915 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6703
+2025-12-12 11:25:18,946 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6705
+2025-12-12 11:25:20,602 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6718
+2025-12-12 11:25:20,602 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6719
+2025-12-12 11:25:20,618 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6720
+2025-12-12 11:25:20,633 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6721
+2025-12-12 11:25:20,633 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6722
+2025-12-12 11:25:20,665 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6725
+2025-12-12 11:25:21,118 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6732
+2025-12-12 11:25:21,118 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6733
+2025-12-12 11:25:21,118 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6734
+2025-12-12 11:25:21,118 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6736
+2025-12-12 11:25:21,149 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6738
+2025-12-12 11:25:21,274 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6741
+2025-12-12 11:25:21,524 - Node1 - ERROR - Error handling message from ('::1', 64517, 0, 0): '54f24d23-ee85-433b-a8d3-08d38d2ff44a'
+2025-12-12 11:25:21,633 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6744
+2025-12-12 11:25:22,430 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6756
+2025-12-12 11:25:23,039 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6761
+2025-12-12 11:25:25,039 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:25:25,055 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6792
+2025-12-12 11:25:25,133 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6795
+2025-12-12 11:25:25,539 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6800
+2025-12-12 11:25:26,055 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6802
+2025-12-12 11:25:26,086 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6804
+2025-12-12 11:25:26,648 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6812
+2025-12-12 11:25:28,601 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6836
+2025-12-12 11:25:28,601 - Node1 - ERROR - Error handling message from ('::1', 53460, 0, 0): 6837
+2025-12-12 11:25:29,804 - Node1 - ERROR - Error handling message from ('::1', 53459, 0, 0): 6843
+2025-12-12 11:25:30,148 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:25:30,445 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:25:30,642 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:25:31,071 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:25:31,142 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:25:31,576 - Node1 - ERROR - Error sending message: Connection lost
+2025-12-12 11:26:30,475 - Node1 - ERROR - Connection error from ('::1', 53543, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-12 11:26:31,069 - Node1 - ERROR - Connection error from ('::1', 53546, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-12 11:26:31,272 - Node1 - ERROR - Connection error from ('::1', 53460, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-12 11:26:31,444 - Node1 - ERROR - Connection error from ('::1', 53459, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-13 23:33:32,586 - Node1 - INFO - Node 1 initialized (Cluster 1)
+2025-12-13 23:33:32,804 - Node1 - INFO - Server started on localhost:5001
+2025-12-13 23:33:32,804 - Node1 - INFO - Serving on ('127.0.0.1', 5001)
+2025-12-13 23:35:06,079 - Node1 - ERROR - Error handling message from ('::1', 64980, 0, 0): 6849
+2025-12-13 23:35:06,142 - Node1 - ERROR - Error handling message from ('::1', 64983, 0, 0): 6850
+2025-12-13 23:35:07,126 - Node1 - ERROR - Error handling message from ('::1', 64983, 0, 0): 6865
+2025-12-13 23:35:07,501 - Node1 - ERROR - Error handling message from ('::1', 64983, 0, 0): 6870
+2025-12-13 23:35:07,548 - Node1 - ERROR - Error handling message from ('::1', 64980, 0, 0): 6872
+2025-12-13 23:35:07,688 - Node1 - ERROR - Error handling message from ('::1', 64980, 0, 0): 6875
+2025-12-13 23:35:07,860 - Node1 - ERROR - Error handling message from ('::1', 64980, 0, 0): 6878
+2025-12-13 23:35:09,032 - Node1 - ERROR - Error handling message from ('::1', 64983, 0, 0): 6888
+2025-12-13 23:35:09,094 - Node1 - ERROR - Error handling message from ('::1', 64980, 0, 0): 6890
+2025-12-13 23:35:09,548 - Node1 - ERROR - Error handling message from ('::1', 64980, 0, 0): 6894
+2025-12-13 23:35:10,001 - Node1 - ERROR - Error handling message from ('::1', 64980, 0, 0): 6896
+2025-12-13 23:35:10,673 - Node1 - ERROR - Error handling message from ('::1', 64980, 0, 0): 6900
+2025-12-13 23:35:11,095 - Node1 - ERROR - Error handling message from ('::1', 64983, 0, 0): 6906
+2025-12-13 23:35:11,454 - Node1 - ERROR - Error handling message from ('::1', 64980, 0, 0): 6911
+2025-12-13 23:35:12,798 - Node1 - ERROR - Error handling message from ('::1', 64983, 0, 0): 6916
+2025-12-13 23:35:13,298 - Node1 - ERROR - Error handling message from ('::1', 64980, 0, 0): 6921
+2025-12-13 23:35:14,298 - Node1 - ERROR - Connection error from ('::1', 65285, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-13 23:35:14,360 - Node1 - ERROR - Connection error from ('::1', 65317, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-13 23:35:14,602 - Node1 - ERROR - Error sending message: [WinError 64] The specified network name is no longer available
+2025-12-13 23:35:15,174 - Node1 - ERROR - Error sending message: [WinError 64] The specified network name is no longer available
+2025-12-13 23:39:44,419 - Node1 - ERROR - Connection error from ('::1', 65169, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-13 23:39:45,153 - Node1 - ERROR - Connection error from ('::1', 65094, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-13 23:39:45,372 - Node1 - ERROR - Connection error from ('::1', 64980, 0, 0): [WinError 64] The specified network name is no longer available
+2025-12-13 23:39:45,528 - Node1 - ERROR - Connection error from ('::1', 64983, 0, 0): [WinError 64] The specified network name is no longer available

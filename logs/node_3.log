@@ -1,0 +1,27 @@
+2025-12-12 10:47:42,358 - Node3 - INFO - Node 3 initialized (Cluster 1)
+2025-12-12 10:47:44,410 - Node3 - INFO - Server started on localhost:5003
+2025-12-12 10:47:44,410 - Node3 - INFO - Serving on ('127.0.0.1', 5003)
+2025-12-12 10:48:06,496 - Node3 - INFO - *** NODE RECOVERED ***
+2025-12-12 10:48:09,277 - Node3 - WARNING - *** NODE FAILED ***
+2025-12-12 10:48:48,329 - Node3 - INFO - *** NODE RECOVERED ***
+2025-12-12 10:49:06,503 - Node3 - ERROR - Error sending message: Connection lost
+2025-12-12 10:49:13,033 - Node3 - ERROR - Error sending message: Connection lost
+2025-12-12 10:49:20,079 - Node3 - ERROR - Error sending message: Connection lost
+2025-12-12 10:49:27,657 - Node3 - ERROR - Error sending message: Connection lost
+2025-12-12 10:50:26,341 - Node3 - INFO - *** NODE RECOVERED ***
+2025-12-12 10:51:03,899 - Node3 - INFO - *** NODE RECOVERED ***
+2025-12-12 11:07:28,338 - Node3 - INFO - Node 3 initialized (Cluster 1)
+2025-12-12 11:07:28,822 - Node3 - INFO - Server started on localhost:5003
+2025-12-12 11:07:28,822 - Node3 - INFO - Serving on ('::1', 5003, 0, 0)
+2025-12-12 11:11:53,385 - Node3 - INFO - Node 3 initialized (Cluster 1)
+2025-12-12 11:11:53,432 - Node3 - INFO - Server started on localhost:5003
+2025-12-12 11:11:53,432 - Node3 - INFO - Serving on ('127.0.0.1', 5003)
+2025-12-12 11:12:28,351 - Node3 - INFO - Node 3 initialized (Cluster 1)
+2025-12-12 11:12:28,882 - Node3 - INFO - Server started on localhost:5003
+2025-12-12 11:12:28,882 - Node3 - INFO - Serving on ('127.0.0.1', 5003)
+2025-12-12 11:18:55,401 - Node3 - INFO - Node 3 initialized (Cluster 1)
+2025-12-12 11:18:55,479 - Node3 - INFO - Server started on localhost:5003
+2025-12-12 11:18:55,479 - Node3 - INFO - Serving on ('::1', 5003, 0, 0)
+2025-12-13 23:33:33,411 - Node3 - INFO - Node 3 initialized (Cluster 1)
+2025-12-13 23:33:33,752 - Node3 - INFO - Server started on localhost:5003
+2025-12-13 23:33:33,752 - Node3 - INFO - Serving on ('::1', 5003, 0, 0)

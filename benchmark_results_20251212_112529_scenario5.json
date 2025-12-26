@@ -1,0 +1,29 @@
+{
+  "config": {
+    "read_write_ratio": 0.5,
+    "cross_shard_ratio": 0.3,
+    "skew": 0.8,
+    "duration": 60,
+    "target_tps": 1000,
+    "num_clients": 20
+  },
+  "stats": {
+    "duration": 60.01430010795593,
+    "total_transactions": 4072,
+    "successful_transactions": 3721,
+    "failed_transactions": 351,
+    "read_transactions": 2030,
+    "write_transactions": 2042,
+    "intra_shard_transactions": 3503,
+    "cross_shard_transactions": 569,
+    "avg_tps": 62.00188943812605,
+    "latency_percentiles": {
+      "p50": 0.0,
+      "p90": 1.3278132438659669,
+      "p95": 2.01552677154541,
+      "p99": 3.485717794895172
+    },
+    "errors": {}
+  },
+  "timestamp": "2025-12-12T11:25:29.914104"
+}
